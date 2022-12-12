@@ -17,7 +17,7 @@
 109C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133152964059979357 0
 86C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\htmlparser2\lib\index.js133152964056487643 0
 93C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\caniuse-lite\data\regions\IT.js133152964082843902 0
-53C:\Users\moose\OneDrive\Desktop\in-class-6-start\dist133153015439278493 1
+53C:\Users\moose\OneDrive\Desktop\in-class-6-start\dist133153019884317708 1
 86C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\terser\tools\terser.d.ts133152964072350005 0
 102C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\@parcel\events\test\ValueEmitter.test.js133152964065523802 0
 71C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\.bin\svgo133152964092506447 0
@@ -2055,7 +2055,7 @@
 109C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\caniuse-lite\data\features\css-rebeccapurple.js133152964077046113 0
 124C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\010-introduction.md133152964071233160 0
 119C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\040-presets.md133152964071942343 0
-71C:\Users\moose\OneDrive\Desktop\in-class-6-start\dist\index.5d9dacde.js133153015439233364 0
+71C:\Users\moose\OneDrive\Desktop\in-class-6-start\dist\index.5d9dacde.js133153019884272004 0
 106C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\caniuse-lite\data\features\css-textshadow.js133152964077633746 0
 103C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\caniuse-lite\data\features\css-lch-lab.js133152964076492054 0
 78C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\domutils\LICENSE133152964053823868 0
@@ -4164,13 +4164,13 @@
 77C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\.bin\terser.cmd133152964092496325 0
 77C:\Users\moose\OneDrive\Desktop\in-class-6-start\node_modules\.bin\terser.ps1133152964092446405 0
 60C:\Users\moose\OneDrive\Desktop\in-class-6-start\js\index.js133153003013446605 0
-69C:\Users\moose\OneDrive\Desktop\in-class-6-start\js\renderContacts.js133153015438977442 0
+69C:\Users\moose\OneDrive\Desktop\in-class-6-start\js\renderContacts.js133153019739337817 0
 64C:\Users\moose\OneDrive\Desktop\in-class-6-start\img\favicon.png132872634629920002 0
 58C:\Users\moose\OneDrive\Desktop\in-class-6-start\dist\data133153013126322622 1
 74C:\Users\moose\OneDrive\Desktop\in-class-6-start\dist\favicon.c1b29cd4.png133153012139274864 0
 72C:\Users\moose\OneDrive\Desktop\in-class-6-start\dist\index.47ca9330.css133153012139274864 0
 76C:\Users\moose\OneDrive\Desktop\in-class-6-start\dist\index.47ca9330.css.map133153012139320322 0
-75C:\Users\moose\OneDrive\Desktop\in-class-6-start\dist\index.5d9dacde.js.map133153015439268411 0
+75C:\Users\moose\OneDrive\Desktop\in-class-6-start\dist\index.5d9dacde.js.map133153019884317708 0
 64C:\Users\moose\OneDrive\Desktop\in-class-6-start\dist\index.html133153012139658800 0
 72C:\Users\moose\OneDrive\Desktop\in-class-6-start\dist\data\contacts.json132918487375500427 0
 67C:\Users\moose\OneDrive\Desktop\in-class-6-start\data\contacts.json132918487375500427 0

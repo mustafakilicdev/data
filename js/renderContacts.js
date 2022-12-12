@@ -1,6 +1,6 @@
 //return a promise
 async function getAllContacts(){
-    const res = await fetch('https://github.com/jimbits/jim/blob/main/data/contacts.json')
+    const res = await fetch('https://github.com/mustafakilicdev/data/blob/main/data/contacts.json')
     const contacts = await res.json();
     return contacts
 }

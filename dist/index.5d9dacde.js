@@ -547,7 +547,7 @@ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "renderContacts", ()=>renderContacts);
 async function getAllContacts() {
-    const res = await fetch("https://github.com/jimbits/jim/blob/main/data/contacts.json");
+    const res = await fetch("https://github.com/mustafakilicdev/data/blob/main/data/contacts.json");
     const contacts = await res.json();
     return contacts;
 }
